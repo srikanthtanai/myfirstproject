@@ -1,2 +1,3 @@
 # myfirstproject
 myfirstproject
+everything i learn shoud be implemented...
